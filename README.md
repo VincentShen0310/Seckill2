@@ -1,1 +1,1 @@
-"# Seckill2" 
+Seckill project with Spring, SpringMVC, mybatis, redis.
